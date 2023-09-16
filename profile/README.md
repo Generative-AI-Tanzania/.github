@@ -1,3 +1,3 @@
 ## Welcome 👋
 
-This repository is for the Generative AI community of Tanzania
+This repository is for the Generative AI community in Tanzania
